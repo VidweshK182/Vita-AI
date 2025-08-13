@@ -129,7 +129,7 @@ Open the application in your browser:
 
 ---
 
-## 🧠 How It Works (From ZML Explaination Document)  
+## 🧠 How It Works 
 
 ### 1. Chatbot Layer (Streamlit + Gemini API)
 - **SYSTEM_PROMPT** defines the chatbot's tone and scope (health domains: sleep, hydration, nutrition, fitness, mental health, etc.).  
