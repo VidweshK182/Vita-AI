@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: sparkle-api
+    env: python
+    plan: free
+    buildCommand: ""
+    startCommand: python3 zmlb/backend/api.py

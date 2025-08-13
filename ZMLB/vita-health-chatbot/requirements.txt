@@ -1,0 +1,13 @@
+flask
+uvicorn
+pandas
+matplotlib
+scikit-learn
+python-multipart
+flask-cors
+streamlit
+pandas
+scikit-learn
+matplotlib
+openai
+python-dotenv
